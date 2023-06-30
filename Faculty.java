@@ -5,7 +5,7 @@ public class Faculty {
         System.out.println("Sivaiah");
         System.out.println("Sudhakar");
         System.out.println("sudheer");
-        System.out.println("Nirmala");
+        
     }
 }
 
