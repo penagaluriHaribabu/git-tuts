@@ -9,4 +9,4 @@ public class Faculty {
         System.out.println("malli");
     }
 }
-
+    
